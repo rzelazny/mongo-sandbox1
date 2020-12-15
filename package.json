@@ -1,0 +1,24 @@
+{
+  "name": "mongo-sandbox1",
+  "version": "1.0.0",
+  "description": "Sandbox for mongo db",
+  "main": "connection.js",
+  "dependencies": {
+    "mongoose": "^5.11.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzelazny/mongo-sandbox1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzelazny/mongo-sandbox1/issues"
+  },
+  "homepage": "https://github.com/rzelazny/mongo-sandbox1#readme"
+}
